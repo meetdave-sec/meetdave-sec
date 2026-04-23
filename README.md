@@ -24,7 +24,7 @@ I build practical cybersecurity projects focused on identifying vulnerabilities,
 - 🔐 Secure Web Application (OWASP Top 10 implementation & testing) - Currently building
 - ☁️ Blue Team Lab – Currently building
 - 🔐 Network Scanner Tool – Currently building
-- 🛡️ Vulnerability Scanner – Currently building
+- 🛡️ Vulnerability Scanner – Completed (rule-based detection engine with severity classification)
 
 ---
 
