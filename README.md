@@ -27,11 +27,9 @@ I build practical cybersecurity projects focused on identifying vulnerabilities,
   
 - 🔐 Network Scanner Tool – Currently building
   
-- 🛡️ Vulnerability Scanner
-   Rule-based detection engine with severity classification
+- 🛡️ Vulnerability Scanner -  Rule-based detection engine with severity classification
   
-- 🔐 Entropy-Based Password Risk Engine
-  Behavior-based password security analysis tool using entropy modeling, pattern detection, and attacker-style heuristics 
+- 🔐 Entropy-Based Password Risk Engine - Behavior-based password security analysis tool using entropy modeling, pattern detection, and attacker-style heuristics 
 
 ---
 
