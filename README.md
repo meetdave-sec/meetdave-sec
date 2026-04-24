@@ -22,10 +22,16 @@ I build practical cybersecurity projects focused on identifying vulnerabilities,
 
 ## 📂 Projects
 - 🔐 Secure Web Application (OWASP Top 10 implementation & testing) - Currently building
+  
 - ☁️ Blue Team Lab – Currently building
+  
 - 🔐 Network Scanner Tool – Currently building
-- 🛡️ Vulnerability Scanner – Completed (rule-based detection engine with severity classification)
-- 🔐Password Security Analyzer - Currently building
+  
+- 🛡️ Vulnerability Scanner
+   Rule-based detection engine with severity classification
+  
+- 🔐 Entropy-Based Password Risk Engine
+  Behavior-based password security analysis tool using entropy modeling, pattern detection, and attacker-style heuristics 
 
 ---
 
