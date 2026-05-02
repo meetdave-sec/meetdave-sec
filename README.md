@@ -38,17 +38,20 @@ Linux
 
 ## Projects
 
-**Secure Web Application**  
-Hands-on lab implementing and exploiting OWASP Top 10 vulnerabilities, followed by secure remediation.
+**SentinelSIEM – SOC Detection Engineering Lab (Splunk)**  
+Built a full SIEM pipeline simulating real-world SOC operations: ingested logs, created detection rules, developed dashboards, and triggered automated alerts for attacks like SSH brute force and port scanning. Demonstrated end-to-end workflow from attack simulation to incident investigation using Splunk.
 
-**Blue Team Lab (In Progress)**  
-Simulated SOC environment with log analysis, detection rules, and incident response workflows.
+**SentinelWeb – Secure Web Application (OWASP Top 10)**  
+Engineered a vulnerable web application and a hardened version to demonstrate and mitigate real-world vulnerabilities including SQL Injection, XSS, and IDOR. Implemented secure coding practices such as parameterized queries, input sanitization, CSRF protection, and secure session management.
 
-**Vulnerability Scanner**  
-Custom rule-based scanning tool with severity classification for identifying common security weaknesses.
+**SOC Detection Lab (Blue Team Simulation)**  
+Designed a multi-layered detection lab covering network (Suricata), host (auth logs), and application logs. Detected attacks including Nmap scans, SSH brute force (Hydra), and web enumeration (Gobuster), with detailed log analysis and incident reporting.
 
-**Entropy-Based Password Risk Engine**  
-Behavior-driven password analysis using entropy calculations, pattern detection, and attacker-style heuristics.
+**SentinelScan – Custom Vulnerability Scanner**  
+Developed a Python-based rule-driven vulnerability scanner to identify common security weaknesses. Implemented structured scanning logic with severity classification and extensible detection rules.
+
+**Entropy-Based Password Risk Enginer** 
+Built a behavior-driven password analysis tool using entropy modeling, structural pattern detection, and attacker-style heuristics to evaluate real-world password strength beyond basic rule checks.
 
 ---
 
